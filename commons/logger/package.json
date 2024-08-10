@@ -1,0 +1,8 @@
+{
+    "name": "custom-logger",
+    "version": "1.0.0",
+    "description": "internal logging",
+    "main": "index.js",
+    "author": "SAM CLI",
+    "license": "MIT"
+}
